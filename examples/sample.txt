@@ -1,0 +1,1 @@
+This is a small sample document. Use it to test ingestion and search.\n\nAI is transforming search.

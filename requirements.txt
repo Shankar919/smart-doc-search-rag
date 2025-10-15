@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+requests
+openai
+qdrant-client
+sentence-transformers
+pdfminer.six
+streamlit
+python-dotenv
